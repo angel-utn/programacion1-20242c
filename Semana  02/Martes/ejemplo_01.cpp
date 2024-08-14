@@ -27,6 +27,6 @@ int main(){
     /// SALIDA
     cout << "Unidades sueltas: " << unidades << endl;
     cout << "Cantidad packs: " << packs << endl;
-
-	return 0;
+    
+    return 0;
 }
