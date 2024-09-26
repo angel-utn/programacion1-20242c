@@ -1,0 +1,32 @@
+Ejercicio 1
+----------------
+Una empresa de reparación de celulares registró las reparaciones realizadas por sus 5 técnicos el día de hoy. Cada técnico repara 10 dispositivos por día. Por cada reparación se registró:
+- Legajo del técnico (entero de dos digitos)
+- Número de serie del dispositivo (entero de 4 digitos)
+- Duración de la reparación en minutos (entero)
+- Cantidad de insumos necesarios (entero)
+
+La información se encuentra agrupada por técnico.
+Se pide calcular e informar:
+
+A) Por cada técnico, el tiempo total dedicado a la reparación en el día.
+B) Por cada técnico, la cantidad de reparaciones que no requirieron insumos.
+C) El total de reparaciones que hayan demorado más de dos horas.
+
+
+Ejercicio 2
+-------------
+Una empresa de reparación de celulares registró las reparaciones realizadas por sus técnicos el día de hoy. Cada técnico pudo haber reparado una diferente cantidad de dispositivos. Por cada reparación se registró:
+- Legajo del técnico (entero de dos digitos)
+- Número de serie del dispositivo (entero de 4 digitos)
+- Duración de la reparación en minutos (entero)
+- Cantidad de insumos necesarios (entero)
+
+La información se encuentra agrupada por técnico. Para indicar el fin de la carga de datos de un técnico se ingresa un legajo distinto al del técnico anterior.
+Para indicar el fin de la carga de datos se ingresa un número de legajo igual a cero.
+
+Se pide calcular e informar:
+
+A) Por cada técnico, el tiempo total dedicado a la reparación en el día.
+B) Por cada técnico, la cantidad de reparaciones que no requirieron insumos.
+C) El total de reparaciones que hayan demorado más de dos horas.
