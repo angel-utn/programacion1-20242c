@@ -57,7 +57,7 @@ int main() {
    cout << "La cantidad de numetos positivos son: " << cant << endl;
    
    
-	
+	system("pause");
 	return 0;
 }
 
