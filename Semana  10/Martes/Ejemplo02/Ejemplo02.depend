@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1728430563 source:d:\desarrollo\utn\programacion1-20242c\semana  10\martes\ejemplo02\main.cpp
+	<iostream>
+	"funciones.h"
+
+1728430584 d:\desarrollo\utn\programacion1-20242c\semana  10\martes\ejemplo02\funciones.h
+
+1728428604 source:d:\desarrollo\utn\programacion1-20242c\semana  10\martes\ejemplo02\funciones.cpp
+	<iostream>
+	"funciones.h"
+
