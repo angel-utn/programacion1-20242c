@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1729033424 source:d:\desarrollo\utn\programacion1-20242c\semana  11\martes\juegodedados\juego.cpp
+	<iostream>
+	"juego.h"
+
+1729034521 d:\desarrollo\utn\programacion1-20242c\semana  11\martes\juegodedados\juego.h
+	<string>
+
+1729032403 source:d:\desarrollo\utn\programacion1-20242c\semana  11\martes\juegodedados\main.cpp
+	<iostream>
+	<ctime>
+	"juego.h"
+
