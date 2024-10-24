@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1729126843 source:e:\github\educacion\utn\2024\2c\programacion1-20242c-n\proyectodebug\main.cpp
+	<iostream>
+	"funciones.h"
+
+1729126922 source:e:\github\educacion\utn\2024\2c\programacion1-20242c-n\proyectodebug\funciones.cpp
+	<iostream>
+	"funciones.h"
+
+1729126915 e:\github\educacion\utn\2024\2c\programacion1-20242c-n\proyectodebug\funciones.h
+	<string>
+
